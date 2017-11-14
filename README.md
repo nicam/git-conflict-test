@@ -1,6 +1,6 @@
 # git-conflict-test
 
-Hallo Pascal
+Hallo Pascal, wie gehts?
 
 
 Hallo Kilian
